@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Calculadora de IMC</title>
+        <link rel="stylesheet" href="../style.css">
+
 </head>
 <body>
     <h2>Cálculo de IMC</h2>

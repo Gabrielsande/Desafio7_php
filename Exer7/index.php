@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Planejamento de Viagem</title>
+        <link rel="stylesheet" href="../style.css">
+
 </head>
 <body>
     <h2>Planejamento de Viagem</h2>

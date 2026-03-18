@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Controle de Estoque</title>
+        <link rel="stylesheet" href="../style.css">
+
 </head>
 <body>
     <h2>Controle de Estoque</h2>

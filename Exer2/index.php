@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Cadastro de Aluno</title>
+        <link rel="stylesheet" href="../style.css">
+
 </head>
 <body>
     <h2>Informações do Aluno</h2>

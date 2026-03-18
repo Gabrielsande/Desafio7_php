@@ -1,10 +1,14 @@
 <?php require_once 'Carro.php'; ?>
 <!DOCTYPE html>
 <html lang="pt-br">
+
 <head>
     <meta charset="UTF-8">
     <title>Cadastro de Carro</title>
+    <link rel="stylesheet" href="../style.css">
+
 </head>
+
 <body>
     <h2>Informações do Carro</h2>
     <form method="post">
@@ -27,14 +31,15 @@
         $carro = new Carro(
             $_POST['modelo'],
             $_POST['combustivel'],
-            (float)$_POST['tanque'],
-            (float)$_POST['consumo'],
-            (float)$_POST['preco'],
-            (int)$_POST['km']
+            (float) $_POST['tanque'],
+            (float) $_POST['consumo'],
+            (float) $_POST['preco'],
+            (int) $_POST['km']
         );
         echo "<h3>Resultado:</h3>";
         echo $carro->exibirDetalhes();
     }
     ?>
 </body>
+
 </html>

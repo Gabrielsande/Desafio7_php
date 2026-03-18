@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Calculadora Geométrica</title>
+        <link rel="stylesheet" href="../style.css">
+
     <script>
         // Mostra/oculta o campo de altura conforme a figura escolhida
         function atualizarCampos() {

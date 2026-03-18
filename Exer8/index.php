@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Calculadora Financeira</title>
+        <link rel="stylesheet" href="../style.css">
+
 </head>
 <body>
     <h2>Calculadora de Parcelamento com Juros</h2>
