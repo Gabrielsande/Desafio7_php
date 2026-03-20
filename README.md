@@ -10,6 +10,12 @@ Série de exercícios práticos de **PHP com POO (Programação Orientada a Obje
 projeto/
 │
 │   ├── style.css              ← CSS compartilhado por todos os exercícios
+│   ├── exercicio01/
+│   │   ├── funcionario.php
+│   │   └── index.php
+│   ├── exercicio02/
+│   │   ├── aluno.php
+│   │   └── index.php
 │   ├── exercicio03/
 │   │   ├── Pedido.php
 │   │   └── index.php
